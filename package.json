@@ -1,0 +1,14 @@
+{
+  "name": "tv-launcher",
+  "appName": "Inicio",
+  "version": "0.1.0",
+  "description": "Launcher estilo tvOS para Samsung Tizen: tus apps reales, un dock de favoritos y nada más.",
+  "packageType": "app",
+  "appPath": "app/index.html",
+  "keys": [
+    "ColorF2Yellow",
+    "MediaPlayPause"
+  ],
+  "author": "Jairo Sánchez",
+  "license": "MIT"
+}
