@@ -1,4 +1,4 @@
-# Inicio
+# Lumen
 
 Launcher estilo tvOS para televisores Samsung con Tizen, como módulo de [TizenBrew](https://github.com/reisxd/TizenBrew).
 
@@ -9,7 +9,7 @@ Launcher estilo tvOS para televisores Samsung con Tizen, como módulo de [TizenB
 
 ## Instalar
 
-En TizenBrew: Module Manager > Add GitHub Module > `jairosanchezb94/tv-launcher`, y abre **Inicio**.
+En TizenBrew: Module Manager > Add GitHub Module > `jairosanchezb94/lumen`, y abre **Lumen**.
 
 ## Probar en el ordenador
 

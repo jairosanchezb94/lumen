@@ -1,6 +1,6 @@
 {
-  "name": "tv-launcher",
-  "appName": "Inicio",
+  "name": "lumen",
+  "appName": "Lumen",
   "version": "0.1.0",
   "description": "Launcher estilo tvOS para Samsung Tizen: tus apps reales, un dock de favoritos y nada más.",
   "packageType": "app",
